@@ -1,2 +1,2 @@
 # open-learnig-code
-this is test!hahaha~
+欢迎来到斯莫特尔的学习空间，致力于写垃圾代码，“垃圾空间站”就此成立！
